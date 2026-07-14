@@ -2,9 +2,9 @@ import { FiGithub, FiLinkedin, FiMail } from 'react-icons/fi'
 import MagneticButton from '../ui/MagneticButton'
 
 const socials = [
-  { icon: FiGithub, href: 'https://github.com/sumitjadhav', label: 'GitHub' },
-  { icon: FiLinkedin, href: 'https://linkedin.com/in/sumitjadhav', label: 'LinkedIn' },
-  { icon: FiMail, href: 'mailto:sumit@example.com', label: 'Email' },
+   { icon: FiGithub, href: 'https://github.com/sumit3032006', label: 'GitHub' },
+  { icon: FiLinkedin, href: 'https://linkedin.com/in/sumit303', label: 'LinkedIn' },
+  { icon: FiMail, href: 'srj3032006@gmail.com', label: 'Email' },
 ]
 
 export default function Footer() {
