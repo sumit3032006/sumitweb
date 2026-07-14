@@ -92,7 +92,7 @@ export default function Hero() {
             <MagneticButton onClick={() => scrollTo('projects')} className="btn-neon shadow-neon">
               View Projects <FiArrowUpRight />
             </MagneticButton>
-            <MagneticButton href="/resume.pdf" download className="btn-ghost">
+            <MagneticButton href="/Sumit_Jadhav_Resume-1.pdf" download className="btn-ghost">
               <FiDownload /> Download Resume
             </MagneticButton>
             <MagneticButton onClick={() => scrollTo('contact')} className="btn-ghost">
