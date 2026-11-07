@@ -2,8 +2,7 @@
 
 A premium, futuristic, fully responsive **3D portfolio** for a Full Stack Developer & AI Enthusiast. Dark glassmorphism theme with soft neon-cyan glow, a persistent WebGL background (procedural sports car, reflective neon floor, particles, bloom + depth of field), scroll- and mouse-driven camera, and rich UI micro-interactions.
 Live Link sumitportfolio303.vercel.app
-(image.png)
-
+![webpage](image.png)
 ## ✨ Highlights
 
 - **Real 3D hero** — an actual **Lamborghini Gallardo** glTF model with glossy clearcoat car paint, neon-reflective chrome/metal, and glowing head/tail lights. Slowly rotates, reacts to the mouse. Draco-compressed (~4 MB) with the decoder bundled locally so it stays offline.
